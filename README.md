@@ -1,2 +1,2 @@
-# recriando_home_instagram
-Recriando a home page do instagram 
+# Recriando a home do Insta 
+# com um toque pessoal
